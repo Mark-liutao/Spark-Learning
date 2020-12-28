@@ -25,6 +25,7 @@ Spark 任务一：统计看过 “Sixteen Candles” 的用户、性别和观看
 Spark 任务二：统计年龄段在20-30的年轻人，最喜欢看哪10部电影  
 Spark 任务三：最受欢迎的前三部电影(平均评分最高的三部电影)  
 ##### 代码详情：https://github.com/Higmin/SparkObject/tree/master/src/main/scala/org/spark/movie
+https://github.com/Mark-liutao/SparkObject/tree/master/src/main/scala/org/spark/movie
 
 ## 2.Spark SQL 内容分析
 SparkSQL是spark用来处理结构化的一个模块，它提供一个抽象的数据集DataFrame,并且是作为分布式SQL查询引擎的应用。  
